@@ -14,8 +14,12 @@ sites = {
 
 distances = {}
 
-# TODO здесь заполнение словаря
-
+for city1 in sites:
+    distances[city1] = {}
+    for city2 in sites:
+        x1,y1 = sites[city1]
+        x2,y2 = sites[city2]
+        distances[city1][city2] = ((x1 - x2) ** 2 + (y1-y2) ** 2) **0.5
 print(distances)
 
 
