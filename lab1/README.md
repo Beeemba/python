@@ -36,37 +36,37 @@ ound() для округления чисел
 ## 📸 Результаты выполнения
 
 ### Задание 00 — Расстояния между городами
-![task00](lab1/screenshots/task00.png)
+![task00](screenshots/task00.png)
 
 ### Задание 01 — Площадь круга и точки
-![task01](lab1/screenshots/task01.png)
+![task01](screenshots/task01.png)
 
 ### Задание 02 — Арифметические операции
-![task02](lab1/screenshots/task02.png)
+![task02](screenshots/task02.png)
 
 ### Задание 03 — Любимые фильмы
-![task03](lab1/screenshots/task03.png)
+![task03](screenshots/task03.png)
 
 ### Задание 04 — Рост семьи
-![task04](lab1/screenshots/task04.png)
+![task04](screenshots/task04.png)
 
 ### Задание 05 — Зоопарк
-![task05](lab1/screenshots/task05.png)
+![task05](screenshots/task05.png)
 
 ### Задание 06 — Песни Depeche Mode
-![task06](lab1/screenshots/task06.png)
+![task06](screenshots/task06.png)
 
 ### Задание 07 — Секретное сообщение
-![task07](lab1/screenshots/task07.png)
+![task07](screenshots/task07.png)
 
 ### Задание 08 — Цветы в саду и на лугу
-![task08](lab1/screenshots/task08.png)
+![task08](screenshots/task08.png)
 
 ### Задание 09 — Покупки
-![task09](lab1/screenshots/task09.png)
+![task09](screenshots/task09.png)
 
 ### Задание 10 — Склад товаров
-![task10](lab1/screenshots/task10.png)
+![task10](screenshots/task10.png)
 
 ## 📘 Шпаргалка по командам Git
 
